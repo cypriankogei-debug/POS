@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P001",
+    "name": "Milk",
+    "price": 70.0,
+    "stock": 20
+  },
+  {
+    "id": "P002",
+    "name": "Bread",
+    "price": 60.0,
+    "stock": 15
+  },
+  {
+    "id": "P003",
+    "name": "Sugar",
+    "price": 120.0,
+    "stock": 10
+  },
+  {
+    "id": "50",
+    "name": "cologne",
+    "price": 300.0,
+    "stock": 59
+  }
+]
