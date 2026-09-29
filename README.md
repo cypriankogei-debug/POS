@@ -12,6 +12,10 @@ python main.py
 
 The first run uses the sample products in `products.json`. Product and sales data are stored beside `main.py`, so they persist between runs. If either JSON file is missing, the program creates it. Set `TAX_RATE` near the top of `main.py` to `0.0` to disable tax; the default rate is 16%.
 
+## Open the browser POS
+
+Open `index.html` in a browser to use the frontend. It starts with the sample products from `products.json` and saves browser POS products and transactions in that browser's local storage. The browser page and the terminal program currently keep separate data.
+
 ## What you'll learn
 
 ### 1. Product data and display
